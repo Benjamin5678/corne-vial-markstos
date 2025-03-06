@@ -10,4 +10,4 @@ OLED_DRIVER         = SSD1306
 EXTRAKEY_ENABLE     = yes
 COMBO_ENABLE        = yes
 
-QMK_SETTINGS        = no
+QMK_SETTINGS        = yes
